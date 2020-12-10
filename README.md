@@ -4,12 +4,6 @@ GNU Make, Luigi, DASK, Celery and Airflow.
 
 Video recording for the presentation can be found on Blackboard under Tegrity classes
 
-Please feel free to drop us an email for any questions or suggestions : 
-
-Vishal Satam : urbanesatan@gmail.com
-
-Manasi Dalvi : manasidalvi14@gmail.com
-
 ## Videos:
 The links for the videos that we have recorded to explain the demo better are given below
 
